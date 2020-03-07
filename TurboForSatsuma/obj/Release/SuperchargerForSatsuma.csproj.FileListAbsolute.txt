@@ -1,0 +1,3 @@
+C:\Users\Spysi\source\repos\SuperchargerForSatsuma\TurboForSatsuma\bin\Release\SuperchargerForSatsuma.dll
+C:\Users\Spysi\source\repos\SuperchargerForSatsuma\TurboForSatsuma\obj\Release\SuperchargerForSatsuma.dll
+C:\Users\Spysi\source\repos\SuperchargerForSatsuma\TurboForSatsuma\obj\Release\SuperchargerForSatsuma.csprojAssemblyReference.cache
