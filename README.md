@@ -8,4 +8,4 @@ You need update(or install) ModLoader to the latest version and copy all the fil
 Supercharger For Satsuma is licensed under **MIT License**   
 
 ## Used Libriaries
-[Mop Api 1.2.0](https://github.com/tommojphillips/ModAPI)/[tommojphillips](https://github.com/ioctlLR/NVorbis) - **MIT License**   
+[Mop Api 1.2.0](https://github.com/tommojphillips/ModAPI)/[tommojphillips](https://github.com/tommojphillips) - **MIT License**   
